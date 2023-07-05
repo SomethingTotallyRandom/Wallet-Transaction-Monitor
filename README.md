@@ -9,7 +9,7 @@ winsound module: This module is available by default on Windows.
 
 ### How to Run
 * Make sure you have Python 3.x installed on your system.
-* Install the required requests library by running pip install requests.
+* Install the required requests library by running pip install -r requirements.txt
 * Clone or download the script file wallet_transaction_monitor.py from this repository.
 * Place the sound file (in .wav format) you want to use for the notification in the same directory as the script. Make sure to replace "soundfile.wav" in the script with the actual filename of your sound file.
 * Open a terminal or command prompt and navigate to the directory where the script is located.
