@@ -19,7 +19,7 @@ winsound module: This module is available by default on Windows.
 python wallet_transaction_monitor.py
 ```
 
-### The script will start monitoring the wallet and display updates whenever there are changes in the balance or new transactions. It will also play the specified sound notification on Windows.
+The script will start monitoring the wallet and display updates whenever there are changes in the balance or new transactions. It will also play the specified sound notification on Windows.
 
 ### Important Notes
 This script is designed to work on Windows due to the use of the winsound module for sound notifications. If you are using a different operating system, you may need to modify the sound-related code or use an alternative method for audio notifications.
