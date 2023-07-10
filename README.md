@@ -3,6 +3,10 @@ This script monitors a Bitcoin wallet address and notifies the user when there a
 
 <img src="https://i.ibb.co/6DtVpR3/Screenshot-2023-07-10-101803.png)" alt="Wallet Transaction Monitor">
 
+> ## Changelog - 2023-07-10
+>  * Added the ability to monitor multiple Bitcoin wallets with custom names
+>  * More features will come within a couple of weeks
+
 ### Requirements
 Python 3.x
 requests library: You can install it by running pip install requests.
