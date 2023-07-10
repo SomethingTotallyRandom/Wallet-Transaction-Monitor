@@ -1,7 +1,7 @@
 ### Wallet Transaction Monitor
 This script monitors a Bitcoin wallet address and notifies the user when there are changes in the balance or new transactions. It provides real-time updates on incoming and outgoing transactions, along with the corresponding amounts and timestamps. Additionally, it can play a sound notification on Windows when a new transaction occurs.
 
-<img src="https://i.ibb.co/6gx2zdL/download.png" alt="Wallet Transaction Monitor">
+<img src="[https://i.ibb.co/6gx2zdL/download.png](https://i.ibb.co/6DtVpR3/Screenshot-2023-07-10-101803.png)" alt="Wallet Transaction Monitor">
 
 ### Requirements
 Python 3.x
