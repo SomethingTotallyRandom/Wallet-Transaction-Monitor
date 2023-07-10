@@ -5,6 +5,7 @@ This script monitors a Bitcoin wallet address and notifies the user when there a
 
 > ## Changelog - 2023-07-10
 >  * Added the ability to monitor multiple Bitcoin wallets with custom names
+>  * Added option to save the information to a text file
 >  * More features will come within a couple of weeks
 
 ### Requirements
